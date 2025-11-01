@@ -51,7 +51,3 @@ require("lazy").setup({
     },
   },
 })
-
-vim.opt_local.relativenumber = false
-vim.g.autoformat = false
-vim.g.snacks_animate = false
